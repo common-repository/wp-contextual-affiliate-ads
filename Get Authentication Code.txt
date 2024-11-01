@@ -1,0 +1,35 @@
+
+HOW TO Get Your Authentication Code & Connect URL
+
+1) 
+To Get Your Activation Code Please visit:
+
+http://wpadsensor.com/license/register.php
+
+Grab The Activation Code
+
+
+2) 
+To Get Your Authentication Code (use Activation Code below) Please visit:
+
+http://wpadsensor.com/license/activation.php?email=EmailYou@JustUsed.com
+(copy & paste to your browser, add your email then hit enter) 
+
+Enter CODE here: Use Activation Code
+Email Code to Me: Check/Tick If you Want Deatails Emailed Too
+Hit Submit 
+
+3)
+Grab Your 
+Authentication Code
+Connect URL
+
+4)
+Continue Setup Inside Your Wordpress
+& Start Profiting from your ads :-)
+
+Warmest regards,
+
+Sabrina
+WpAdsensor.com
+Zeescripts.com
